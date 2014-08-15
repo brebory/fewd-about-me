@@ -11,6 +11,10 @@ body {
 	font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+::selection {
+	background: #FFE799;
+}
+
 a {
 
 	/* Typography Rules */
